@@ -1,0 +1,3 @@
+Info (10281): Verilog HDL Declaration information at datapath.v(37): object "frame_rate" differs only in case from object "FRAME_RATE" in the same scope File: C:/Quartus-17/final_demo/graphics/datapath.v Line: 37
+Info (10281): Verilog HDL Declaration information at control.v(22): object "begin_game" differs only in case from object "BEGIN_GAME" in the same scope File: C:/Quartus-17/final_demo/graphics/control.v Line: 22
+Info (10281): Verilog HDL Declaration information at control.v(39): object "gameover" differs only in case from object "GAMEOVER" in the same scope File: C:/Quartus-17/final_demo/graphics/control.v Line: 39
